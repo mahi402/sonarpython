@@ -1,0 +1,6 @@
+projectKey=sonarqube-flask
+serverUrl=http://localhost:9000
+serverVersion=8.5.1.38104
+dashboardUrl=http://localhost:9000/dashboard?id=sonarqube-flask
+ceTaskId=AYQPUBBIP1ZqJ0u6e3WI
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYQPUBBIP1ZqJ0u6e3WI
