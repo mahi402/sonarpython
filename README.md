@@ -1,5 +1,5 @@
 
-go to project directory, you can more tests to project, if u need more coverage
+go to project directory, you can add more tests to project, if u need more coverage
 
 pip install -r requirements.txt
 
