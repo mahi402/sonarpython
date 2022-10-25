@@ -2,6 +2,8 @@
 go to project directory, you can more tests to project, if u need more coverage
 
 pip install -r requirements.txt
+
+
 py.test --cov-report xml:coverage.xml --cov=. --junitxml=result.xml  test.py
 
 above command generates coverage.xml and result.xml
